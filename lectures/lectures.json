@@ -1,0 +1,101 @@
+{
+  "course-code": "seattle-code-201d100",
+  "lectures": {
+    "module-01": {
+      "class-01": {
+        "title": "Introduction to Development",
+        "link": "https://zoom.us/rec/share/5EgyxPejZ6vFXcwzkjr1aSEeLdLlyCpdD6vlPPaR4CQwy9r3BFMYOEekvQ-KZpBi._rHyxZ5EP_C30LXc",
+        "date": "1682956055000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-02": {
+        "title": "Basics of HTML, CSS & JS",
+        "link": "https://zoom.us/rec/share/dioFWRCtkV1byVtZ22H1e2mKKKNuG5ZXnXAfsuBhzb37r3L8pGrHqFbS7MZ88qfL.xyRJcLIVezXk-9mr",
+        "date": "1683043205000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-03": {
+        "title": "HTML Lists, Control Flow with JS, and the CSS Box Model",
+        "link": "https://zoom.us/rec/share/oh_CdPGPLxOwDCvDY729NGMLbmoYVBTXHSJpQLosB9_voDZNBgBC2GIKNrVrSMA.Q-eUAePvbPfTz14y",
+        "date": "1683129615000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-04": {
+        "title": "JS Functions, Pair Programming, and Intro to CSS Layout",
+        "link": "https://zoom.us/rec/share/YtWkbYSQ0IIxofQ476JaSpajE9LusfPpE-T_0gmGOxHfo9PfTmDBHV_08yt0mhCP.KiwwVyC7_i2yUCua",
+        "date": "1683216005000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-05": {
+        "title": "CSS for Images, Color, Text & Git Branching",
+        "link": "https://zoom.us/rec/share/TLDZPQgOGntTKWx-HLplZsrtRB3XWDZdo4DJ2epcEjJfKoTEWGMX2Lk8xNO3kxwu.6B8Ege8WQtmGKstH",
+        "date": "1683302405000",
+        "instructor": "Audrey Patterson"
+      }
+    },
+    "module-02": {
+      "class-06": {
+        "title": "The DOM, Domain Modeling, and Introduction to Objects",
+        "link": "https://zoom.us/rec/share/2w1JFPxxtEOqDVafqdwqw-Sejq-YqgSRkijcTojEKumDUAhL5WMZxlmaFL198cM.m1C_CqV99SnbJ4WH",
+        "date": "1683561668000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-07": {
+        "title": "Object-Oriented Programming with Constructor Functions: HTML Tables",
+        "link": "https://zoom.us/rec/share/ya0D25t_7pvpC-q8Qh79Ql9vEOZisO_zDIhnL_sCzU4L_Nx_00lv8h_QVKXBDqbS.aGZ7SYG9pGm5eUK5",
+        "date": "1683648005000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-08": {
+        "title": "More Topics in CSS Layouts",
+        "link": "https://zoom.us/rec/share/PFo3xBUQUVfY8FhpjtKIaAmXMpVieRNqmDJB-IDjHbeHEll5cgo3NyB8TfIBi_wS.qNG_ecb10Xs5XplI",
+        "date": "1683734404000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-09": {
+        "title": "HTML Forms and JS Events",
+        "link": "https://zoom.us/rec/share/KUyRFhMSRDIo2SMq0hmEOHRFOvpqphnhQqRt2PLBIL4tMaQI8eiasKmtFk2rm11e.Ji8bHCo1ASqQ6FRF",
+        "date": "1683820858000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-10": {
+        "title": "JS Debugging and More CSS Layout",
+        "link": "https://zoom.us/rec/share/KZLwWY9Wjz_ANOENC7G3G7Z97DukWoFCGxuTCnT8_qKiXVDNKc5eriAdvwIjSumW.GF05Pvb4nlCToKU5",
+        "date": "1683907214000",
+        "instructor": "Audrey Patterson"
+      }
+    },
+    "module-03": {
+      "class-11": {
+        "title": "Audio/Video, Practical Info, and Getting the Vote Tracker Started",
+        "link": "https://zoom.us/rec/share/78nXU7FAiASjulP8D2ZIJNjdU412Yp925YowKxGaLxaWEH3H6xXe1SZDpPNNjFVF.eh4jTMrzwP3ngfCb",
+        "date": "1684166409000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-12": {
+        "title": "Adding a chart to the Vote Tracker App",
+        "link": "https://zoom.us/rec/share/AkH4QzedCwBIZTfAVZqSi-Wsyd4p9wWL7EDcnjX3AdwJgTd8d2jhGWal3xaf6yup.Xq_VjdS0XwHatVPC",
+        "date": "1684252855000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-13": {
+        "title": "Application State with Local Storage API",
+        "link": "https://zoom.us/rec/share/IN-SCuMArEPGBrprF0_SQ3Lyz5F_YZyzfkzGWn_PeZD9i6AUTbdx9wFOu3sXJnCy.CcoxbYHNHYVTMmcb",
+        "date": "1684339204000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-14": {
+        "title": "CSS Animations; Intermediate JS Topics; Using Local Storage to Share Data Between Two Pages",
+        "link": "https://zoom.us/rec/share/Na570VyoNttPr2bqP_pkIYxhCkjRoKh-IsLf9y1TnlMft6QU2zuYAOBStgDn560Q.RK12c7DkUPW7inAT",
+        "date": "1684425646000",
+        "instructor": "Audrey Patterson"
+      },
+      "class-15": {
+        "title": "Code 201 Review, Code 301 Preview, and Project Week Kickoff",
+        "link": "https://zoom.us/rec/share/dihfdNhyac9QxBmLufdW7znHzUWuOQVFOsGBSm8fWKYRWeM9aVWkYdXpEV4I92E1.ypKOaJz0uOs6vRuF",
+        "date": "1684512009000",
+        "instructor": "Audrey Patterson"
+      }
+    }
+  }
+}

@@ -1,8 +1,3 @@
-# Template README
-
-Use the following markdown as a starting point for each project's `README.md` file. 
-
-```markdown
 # LAB - Number
 
 ## Project Name

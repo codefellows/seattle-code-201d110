@@ -1,0 +1,58 @@
+body {
+    background: #ccc;
+}
+
+ul {
+    border: 3px solid green;
+}
+
+li {
+    border: 3px solid blue;
+}
+
+span {
+    border: 3px solid #222;
+    display:block;
+}
+
+div.grandparent {
+    border: 3px solid #222;
+    height: 500px;
+    margin-top: 110px;
+    position:relative;
+}
+
+div.parent {
+    border: 3px solid red;
+    height: 350px;
+    position:relative;
+}
+
+div.child {
+    border: 3px solid blue;
+    display:inline-block;
+    height: 100px;
+    width: 100px;
+
+}
+
+div.child:first-child {
+    /* position: absolute; */
+    bottom:0px;
+    left:0px;
+}
+
+div.child:last-child {
+    /* position: absolute; */
+    bottom:0px;
+    right:0px;
+}
+
+footer {
+    background: rebeccapurple;
+    height: 100px;
+    width: 100%;
+    position:fixed;
+    top:0px;
+    left:0px;
+}

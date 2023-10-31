@@ -1,0 +1,55 @@
+header {
+  background: #111;
+  color: salmon;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 40px;
+  font-weight: bold;
+  padding: .5em 0;
+}
+
+header nav {
+  background: salmon;
+  padding: .25em;
+  text-align: left;
+}
+
+header nav li {
+  display:inline-block;
+}
+
+header nav li a {
+  color: #111;
+  text-decoration: none;
+}
+
+main {
+  margin: 2em;
+}
+
+.hero img{
+  max-width: 100%;
+}
+
+.location {
+  margin: 1em 0;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: .5em;
+}
+
+section li {
+  margin-left: 1.5em;
+}
+
+footer {
+  background: #ccc;
+  padding: 1em;
+  text-align: center;
+}
+

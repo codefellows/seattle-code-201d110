@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dogs</title>
+    <style>
+      table * {
+        border: 1px solid #222;
+      }
+      td, th {
+        padding: .5em;
+      }
+      th {
+        background: #ccc;
+      }
+    </style>
+  </head>
+  <body>
+    <form id="dogform">
+      <input name="name" placeholder="Dog Name" />
+      <input name="breed" placeholder="Breed" />
+      <input name="age" placeholder="Age (years)" />
+      <button type="Submit">Add Dog</button>
+    </form>
+    <table>
+      <thead>
+        <tr>
+          <th>Dog</th>
+          <th>Breed</th>
+          <th>Age</th>
+        </tr>
+      </thead>
+      <!-- in the tableBody goes ... row for each dog -->
+      <tbody id="tableBody"></tbody>
+      <!-- in the tableFoot goes ... summary data -->
+      <tfoot id="tableFoot"></tfoot>
+    </table>
+    <script src="dogs.js"></script>
+  </body>
+</html>

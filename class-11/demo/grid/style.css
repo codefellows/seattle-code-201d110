@@ -1,0 +1,35 @@
+main {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-rows: 1fr 5fr 1fr;
+  gap: 15px 15px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    ". header ."
+    "left-sidebar body right-sidebar"
+    ". footer .";
+}
+
+div {
+  border: 1px solid #111;
+}
+
+.right-sidebar {
+  background: pink;
+  grid-area: right-sidebar;
+}
+
+.left-sidebar {
+  background: #eee;
+  grid-area: left-sidebar;
+}
+
+.header {
+  grid-area: header;
+}
+
+.footer {
+  grid-area: footer;
+}
+
+.body { grid-area: body; }

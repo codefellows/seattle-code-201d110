@@ -1,0 +1,14 @@
+#goats {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px
+}
+
+#goats img {
+  width: 150px;
+  border: 5px solid black;
+}
+
+#showResults {
+  display:none;
+}

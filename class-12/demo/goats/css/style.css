@@ -1,0 +1,32 @@
+#goats {
+  --auto-grid-min-size: 16rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
+  grid-gap: 1rem;
+}
+
+#goats figure {
+  height: 150px;
+  width: 150px;
+}
+
+#goats figure figcaption {
+  background: #111;
+  color: ivory;
+  padding: 1em;
+}
+
+#goats img {
+  max-height: 100%;
+  width: 100%;
+}
+
+#showResults {
+  display:none;
+}
+
+canvas {
+  width: 400px;
+  height: 400px;
+  margin: 5em;
+}
